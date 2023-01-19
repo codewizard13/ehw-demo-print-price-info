@@ -103,6 +103,6 @@ sandbox/
 #docs/
 
 # ignore screenshots
-screens/
+# screens/
 token.json
 *credential*
