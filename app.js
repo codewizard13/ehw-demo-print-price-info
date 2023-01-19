@@ -18,8 +18,7 @@ const rating = {
     squareSmallFilled: '■'
   }
 }
-const ratingUnit =
-  console.log(emoji.get('pizza'))
+  // console.log(emoji.get('pizza'))
 
 function printPrettyJSON() {
 
